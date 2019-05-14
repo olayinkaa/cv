@@ -1,0 +1,131 @@
+body
+{
+	background: #fff;
+}
+#header a:hover
+{
+	color:#fff;
+}
+
+#bg-image
+{
+	background: url(../img/ab.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+#about
+{
+	margin-top: -220px;
+}
+
+#about .fab
+{
+	color: #fff;
+}
+
+#about span
+{
+	padding: 10px 20px 10px 20px;
+}
+#about hr
+{
+	border-width:3px;
+	margin-top: 8px;
+}
+#skills span
+{
+	padding: 10px 20px 10px 20px;
+}
+#skills hr
+{
+	border-width:3px;
+	margin-top: 8px;
+}
+
+#experience span
+{
+	padding: 10px 20px 10px 20px;
+}
+#experience hr
+{
+	border-width:3px;
+	margin-top: 8px;
+}
+
+#experience .card
+{
+	/***color : flatuicolors.com ****/
+	
+	border-top: 3px solid #d63031;		
+}
+
+#contact span
+{
+	padding: 10px 20px 10px 20px;
+}
+#contact hr
+{
+	border-width:3px;
+	margin-top: 8px;
+}
+
+
+
+/*  get in touch*/
+#contact
+{
+    background:#efefef;
+    padding:40px 0;
+    
+}
+
+.contact-form
+{
+    padding:15px;
+}
+
+.form-control
+{
+    border-radius:0 !important;
+    /* border: none !important; */
+
+}
+::placeholder
+{
+    color: #999 !important;
+}
+
+.follow
+{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+}
+.contact-info .fab
+{
+    margin: 10px;
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* footer */
+#footer
+{
+    background-color: #333;
+    color:#fff;
+    padding: 12px;
+}
+
+.fa-heart
+{
+    margin: 3px;
+    color:red;
+}
+
+#contact h1
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
